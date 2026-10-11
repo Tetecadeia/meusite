@@ -15,7 +15,7 @@ Nesta página eu me apresento, mostro meus objetivos e meu horário de estudos, 
 
 ## Veja o site no ar
 
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO
+👉 https://tetecadeia.github.io/meusite/
 
 ## Autora
 
